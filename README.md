@@ -1,2 +1,2 @@
-# BOY-campaign
-Bruce OuYang的一个分布式任务调度组件
+# boy-schedule
+bruce ouyang的一个分布式调度组件
